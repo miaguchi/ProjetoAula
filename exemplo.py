@@ -7,3 +7,5 @@ Created on Tue Dec 17 10:31:46 2024
 """
 
 #versão 1
+
+#versão 2
